@@ -1,5 +1,9 @@
 # VoltPath — Smart EV Charging Station Finder
 
+```
+Open <https://volt-path-lyum.onrender.com>
+```
+
 A complete Flask + SQLite academic project that answers **“Which charging station is the best option for me right now?”** It keeps A* route search, but does not pretend A* alone is a recommendation engine. Route search, eligibility filtering, physical estimates, and multi-factor ranking are separate services.
 
 > **Accuracy notice:** Included station names, charger states, queues, reviews, reports, and verification times are **demo/simulated data**. The UI labels them accordingly. OpenStreetMap tiles and Google Maps route links are map conveniences—not live charger feeds.
