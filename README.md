@@ -144,7 +144,7 @@ python seed.py
 python app.py
 ```
 
-Open <http://127.0.0.1:5000>. Running `python seed.py` resets demo data; normal app startup seeds only an empty database. Copy `.env.example` for future provider keys—none are hard-coded.
+Open <https://volt-path-lyum.onrender.com>. Running `python seed.py` resets demo data; normal app startup seeds only an empty database. Copy `.env.example` for future provider keys—none are hard-coded.
 
 ## Routes / APIs
 
