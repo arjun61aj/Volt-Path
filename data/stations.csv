@@ -1,0 +1,16 @@
+name,latitude,longitude,address,opening_time,closing_time,is_24_hours,maintenance_status,queue_length
+BKC Volt Plaza,19.0677,72.8695,Bandra Kurla Complex Mumbai,00:00,23:59,1,operational,1
+Powai ChargeWorks,19.1197,72.9059,Hiranandani Gardens Powai,06:00,23:00,0,operational,2
+Andheri Electra Hub,19.1190,72.8468,New Link Road Andheri West,07:00,22:30,0,operational,0
+Dadar Green Plug,19.0182,72.8432,Senapati Bapat Marg Dadar,00:00,23:59,1,operational,3
+Colaba RapidCharge,18.9151,72.8262,Shahid Bhagat Singh Road Colaba,06:30,23:30,0,operational,0
+Worli Sea Link EV Point,19.0096,72.8173,Dr Annie Besant Road Worli,00:00,23:59,1,operational,1
+Goregaon EcoCharge,19.1551,72.8496,Western Express Highway Goregaon,08:00,21:00,0,operational,4
+Borivali PowerBay,19.2288,72.8564,SV Road Borivali West,00:00,23:59,1,operational,0
+Thane Lake City Chargers,19.1973,72.9634,Teen Hath Naka Thane,06:00,23:59,0,operational,2
+Vashi EV Avenue,19.0732,72.9986,Sector 17 Vashi Navi Mumbai,00:00,23:59,1,operational,0
+Lower Parel ChargeDeck,18.9984,72.8258,Senapati Bapat Marg Lower Parel,07:00,23:00,0,operational,1
+Kurla Mobility Hub,19.0730,72.8791,LBS Marg Kurla,00:00,23:59,1,operational,5
+Chembur Spark Station,19.0522,72.9005,Central Avenue Chembur,06:00,22:00,0,operational,0
+Malad Infinity Charge,19.1830,72.8344,Link Road Malad West,00:00,23:59,1,maintenance,0
+Ghatkopar NightCharge,19.0860,72.9080,R City Road Ghatkopar,20:00,06:00,0,operational,1
